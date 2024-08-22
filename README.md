@@ -503,7 +503,6 @@ Copy code
 git branch -d feature/new-login
 git push origin --delete feature/new-login
 
-
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 Pull requests (PRs) are a key feature of the GitHub workflow that facilitate code review, collaboration, and integration of changes. They act as a formal request to merge code from one branch into another, typically from a feature or bug-fix branch into a main branch or another primary branch. Here’s a detailed look at the role of pull requests, how they facilitate collaboration, and the typical steps involved in creating and merging a pull request.
 
@@ -745,3 +744,4 @@ Best Practice: Regularly pull changes from the main branch to keep your branch u
 Automate Testing and Deployment
 
 Best Practice: Use continuous integration (CI) and continuous deployment (CD) tools to automate testing and deployment processes. This helps ensure that code changes are tested and deployed consistently.
+
